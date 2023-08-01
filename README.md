@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Nicole Monteiro
+# Oiii! Eu sou a Nini
 
 <div align="center">
   <a href="https://github.com/nicoledias418">
